@@ -1,5 +1,7 @@
 # ChatBotApp-GoogleAssistant-DialogFlow
 
+Ionic Project
+
 ## Settings 
 - npm install
 - Set your DialogFlow key in src/environments/environment.ts
